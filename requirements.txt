@@ -1,0 +1,10 @@
+google-cloud-storage
+google-cloud-language
+vertexai
+pandas
+matplotlib
+seaborn
+nltk
+spacy
+sumy
+numpy
